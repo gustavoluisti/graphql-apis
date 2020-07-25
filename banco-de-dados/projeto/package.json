@@ -1,0 +1,16 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luis Gustavo Santos <gustavoluisrh@gmail.com> (http://spartadev.com.br/)",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.21.2",
+    "mysql": "^2.18.1"
+  }
+}
